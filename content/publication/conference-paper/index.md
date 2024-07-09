@@ -14,7 +14,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
-doi: ''
+doi: '10.1109/ACCESS.2024.3384555'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -51,6 +51,7 @@ url_project: ''
 url_slides: ''
 url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_video: 'https://youtube.com'
+url_paper: 'https://ieeexplore.ieee.org/document/10489970'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
