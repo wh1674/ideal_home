@@ -2,7 +2,7 @@
 title: "RL-Based Cache Replacement: A Modern Interpretation of Belady’s Algorithm With Bypass Mechanism and Access Type Analysis"
 authors:
 - Ho Jung Yoo
--Jeong Hun KIM
+- Jeong Hun KIM
 - Tae Hee Han
 
 date: "2023-12-01T00:00:00Z"
