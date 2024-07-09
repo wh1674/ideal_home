@@ -3,9 +3,7 @@ title: "OWBM: OSNR-Aware Wavelength Allocation and Branching Methods for Multica
 authors:
 - Yong Wook Kim
 - Tae Hee Han
-author_notes:
-- "1"
-- "2"
+
 date: "2024-04-01T00:00:00Z"
 doi: "10.1109/ACCESS.2024.3384555"
 
