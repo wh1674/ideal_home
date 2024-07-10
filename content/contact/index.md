@@ -39,6 +39,7 @@ sections:
           <ul style="font-size: 0.9em;line-height: 1.0;">
           <li>담당자:최지훈, jihun5029@g.skku.edu</li>
           <li>성균관대학교 자연과학캠퍼스 반도체관 400525호, 031-299-4659</li>
+
           </ul>
           
         </div>
@@ -49,4 +50,7 @@ sections:
         </div>
 
 
- 
+      email: 
+      phone: 
+      autolink: false
+
