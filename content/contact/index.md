@@ -55,9 +55,9 @@ sections:
       background:
           image:
             filename:
-              brightness: 0.7
+              brightness: 
           position: center
-          color: '#FFF'
+          color: white
 
 
 #
