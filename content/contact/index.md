@@ -11,10 +11,10 @@ sections:
         <div>
             <strong style="font-size: 1.5em;">연구 분야</strong>
           <ul>
-            <li>SoC / NoC / 3D-NoC</li>
-            <li>Computer Architecture (Processor, Memory, etc.)</li>
-            <li>Machine Learning</li>
-            <li>System-level Design (ESL, High-level Synthesis)</li>
+            <li style="margin-bottom: 5px;">SoC / NoC / 3D-NoC</li>
+            <li style="margin-bottom: 5px;">Computer Architecture (Processor, Memory, etc.)</li>
+            <li style="margin-bottom: 5px;">Machine Learning</li>
+            <li style="margin-bottom: 5px;">System-level Design (ESL, High-level Synthesis)</li>
           </ul>
 
           <strong style="font-size: 1.5em;">전일제 대학원생 지원</strong>
@@ -34,19 +34,19 @@ sections:
 
           <strong style="font-size: 1.5em;">지원 문의</strong>
         </div>
-      email: -담당자:최지훈, jihun5029@g.skku.edu 
-      phone: -주소:성균관대학교 자연과학캠퍼스 반도체관 400525호(031-299-4659) 
+      email: 담당자:최지훈, jihun5029@g.skku.edu 
+      phone: -성균관대학교 자연과학캠퍼스 반도체관 400525호, 031-299-4659
       autolink: false
 
 
 
   - block: markdown
     content:
-      title: Google Maps
+      title: We look forward to your visit!
       subtitle: ''
       text: |-
         <div style="text-align: center;">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1690.2647551555526!2d126.97565528577572!3d37.293152908722476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b42c9b51ef153%3A0x887cd759cdafeca1!2z7ISx6reg6rSA64yA7ZWZ6rWQIOuwmOuPhOyytOq0gCAo7J6Q7Jew6rO87ZWZ7Lqg7Y287IqkKQ!5e0!3m2!1sko!2skr!4v1720586279477!5m2!1sko!2skr" width="900" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1690.2647551555526!2d126.97565528577572!3d37.293152908722476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b42c9b51ef153%3A0x887cd759cdafeca1!2z7ISx6reg6rSA64yA7ZWZ6rWQIOuwmOuPhOyytOq0gCAo7J6Q7Jew6rO87ZWZ7Lqg7Y287IqkKQ!5e0!3m2!1sko!2skr!4v1720586279477!5m2!1sko!2skr" width="1500" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     design:
       columns: '1'
@@ -54,3 +54,5 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 ---
+
+
