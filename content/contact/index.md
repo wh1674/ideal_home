@@ -10,7 +10,7 @@ sections:
       text: |-
         <div>
             <strong style="font-size: 1.2em;">연구 분야</strong>
-          <ul style="font-size: 0.9em;">
+          <ul style="font-size: 0.9em;line-height: 0.5;">
             <li style="margin-bottom: 0px;">SoC / NoC / 3D-NoC</li>
             <li style="margin-bottom: 0px;">Computer Architecture (Processor, Memory, etc.)</li>
             <li style="margin-bottom: 0px;">Machine Learning</li>
@@ -18,26 +18,25 @@ sections:
           </ul>
 
           <strong style="font-size: 1.2em;">전일제 대학원생 지원</strong>
-          <ul style="font-size: 0.9em;">
+          <ul style="font-size: 0.9em;line-height: 0.5;">
             <li>등록금 지원 및 매월 일정액의 연구장려금 지원</li>
             <li>쾌적한 연구 환경 지원</li>
             <li>다양한 분야의 Project 참여 기회 제공</li>
           </ul>
 
           <strong style="font-size: 1.2em;">신청 요건</strong>
-          <ul style="font-size: 0.9em;">
+          <ul style="font-size: 0.9em;line-height: 0.5;">
             <li>상위 수준에서 SoC 및 NoC 설계에 관심있는 학생</li>
             <li>C/C++, SystemC 또는 VerilogHDL에 관심있는 학생</li>
             <li>Computer Architecture Simulator (GEM5, SniperSim, ChampSim, etc.)를 활용한 연구에 관심있는 학생</li>
             <li>인공지능 연산 가속을 위한 HW/SW (CPU, GPU / pytorch, tensorflow, etc.)에 관심있는 학생</li>
           </ul>
 
-          <strong style="font-size: 1.2em;">지원 문의</strong>
+          <strong style="font-size: 1.2em;line-height: 0.5;">지원 문의</strong>
         </div>
       email: 담당자:최지훈, jihun5029@g.skku.edu 
       phone: -성균관대학교 자연과학캠퍼스 반도체관 400525호, 031-299-4659
       autolink: false
-
 
 
   - block: markdown
