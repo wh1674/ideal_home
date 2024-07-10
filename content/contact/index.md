@@ -3,14 +3,13 @@ title: Contact
 date: 2022-10-24
 
 type: landing
-
 sections:
   - block: contact
     content:
       title: Contact
       text: |-
         <div>
-          <strong>연구 분야</strong>
+            <strong style="font-size: 1.5em;">연구 분야</strong>
           <ul>
             <li>SoC / NoC / 3D-NoC</li>
             <li>Computer Architecture (Processor, Memory, etc.)</li>
@@ -18,14 +17,14 @@ sections:
             <li>System-level Design (ESL, High-level Synthesis)</li>
           </ul>
 
-          <strong>전일제 대학원생 지원</strong>
+          <strong style="font-size: 1.5em;">전일제 대학원생 지원</strong>
           <ul>
             <li>등록금 지원 및 매월 일정액의 연구장려금 지원</li>
             <li>쾌적한 연구 환경 지원</li>
             <li>다양한 분야의 Project 참여 기회 제공</li>
           </ul>
 
-          <strong>신청 요건</strong>
+          <strong style="font-size: 1.5em;">신청 요건</strong>
           <ul>
             <li>상위 수준에서 SoC 및 NoC 설계에 관심있는 학생</li>
             <li>C/C++, SystemC 또는 VerilogHDL에 관심있는 학생</li>
@@ -33,11 +32,7 @@ sections:
             <li>인공지능 연산 가속을 위한 HW/SW (CPU, GPU / pytorch, tensorflow, etc.)에 관심있는 학생</li>
           </ul>
 
-          <strong>지원 문의</strong>
-          <p>
-            담당자: 김한솔, johnkims2@g.skku.edu, 031-299-4659<br>
-            주소: 성균관대학교 자연과학캠퍼스 반도체관 400525호
-          </p>
+          <strong style="font-size: 1.5em;">지원 문의</strong>
         </div>
       email: -담당자:최지훈, jihun5029@g.skku.edu 
       phone: -주소:성균관대학교 자연과학캠퍼스 반도체관 400525호(031-299-4659) 
@@ -51,7 +46,7 @@ sections:
       subtitle: ''
       text: |-
         <div style="text-align: center;">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1690.2647551555526!2d126.97565528577572!3d37.293152908722476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b42c9b51ef153%3A0x887cd759cdafeca1!2z7ISx6reg6rSA64yA7ZWZ6rWQIOuwmOuPhOyytOq0gCAo7J6Q7Jew6rO87ZWZ7Lqg7Y287IqkKQ!5e0!3m2!1sko!2skr!4v1720586279477!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1690.2647551555526!2d126.97565528577572!3d37.293152908722476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b42c9b51ef153%3A0x887cd759cdafeca1!2z7ISx6reg6rSA64yA7ZWZ6rWQIOuwmOuPhOyytOq0gCAo7J6Q7Jew6rO87ZWZ7Lqg7Y287IqkKQ!5e0!3m2!1sko!2skr!4v1720586279477!5m2!1sko!2skr" width="900" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     design:
       columns: '1'
