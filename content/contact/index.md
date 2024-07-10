@@ -57,8 +57,7 @@ sections:
             filename: welcome.jpg
               brightness: 
           position: center
-          color: white
+          color: #fff
 
 
-#
 ---
