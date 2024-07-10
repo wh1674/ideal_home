@@ -47,14 +47,7 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-        <div style="background-color: white; padding: 0; margin: 0;"
-        <div style="text-align: center; padding: 20px 0;">
-          <h2 style="font-size: 2em; margin-bottom: 10px;">We look forward to your visit!</h2>
+        <div style="text-align: center;">
+          <strong style="font-size: 2em;">We look forward to your visit!</stong>
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1690.2647551555526!2d126.97565528577572!3d37.293152908722476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b42c9b51ef153%3A0x887cd759cdafeca1!2z7ISx6reg6rSA64yA7ZWZ6rWQIOuwmOuPhOyytOq0gCAo7J6Q7Jew6rO87ZWZ7Lqg7Y287IqkKQ!5e0!3m2!1sko!2skr!4v1720586279477!5m2!1sko!2skr" width="1000" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
-    design:
-      columns: '1'
-      spacing:
-        padding: ['0', '0', '0', '0']
-      css_class: fullscreen
----
