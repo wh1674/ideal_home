@@ -10,7 +10,7 @@ sections:
       text: |-
         <div>
             <strong style="font-size: 1.2em;">연구 분야</strong>
-          <ul style="font-size: 0.9em;line-height: 0.8;">
+          <ul style="font-size: 0.9em;line-height: 1.2">
             <li>SoC / NoC / 3D-NoC</li>
             <li>Computer Architecture (Processor, Memory, etc.)</li>
             <li>Machine Learning</li>
@@ -18,7 +18,7 @@ sections:
           </ul>
 
           <strong style="font-size: 1.2em;">전일제 대학원생 지원</strong>
-          <ul style="font-size: 0.9em;line-height: 0.8;">
+          <ul style="font-size: 0.9em;line-height: 1.2;">
 
             <li>등록금 지원 및 매월 일정액의 연구장려금 지원</li>
             <li>쾌적한 연구 환경 지원</li>
@@ -26,7 +26,7 @@ sections:
           </ul>
 
           <strong style="font-size: 1.2em;">신청 요건</strong>
-          <ul style="font-size: 0.9em;line-height: 0.8;">
+          <ul style="font-size: 0.9em;line-height: 1.2;">
 
             <li>상위 수준에서 SoC 및 NoC 설계에 관심있는 학생</li>
             <li>C/C++, SystemC 또는 VerilogHDL에 관심있는 학생</li>
