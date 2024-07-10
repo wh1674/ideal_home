@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         <div>
-          <h2>연구 분야</h2>
+          <strong>연구 분야</strong>
           <ul>
             <li>SoC / NoC / 3D-NoC</li>
             <li>Computer Architecture (Processor, Memory, etc.)</li>
@@ -18,14 +18,14 @@ sections:
             <li>System-level Design (ESL, High-level Synthesis)</li>
           </ul>
 
-          <h2>전일제 대학원생 지원</h2>
+          <strong>전일제 대학원생 지원</strong>
           <ul>
             <li>등록금 지원 및 매월 일정액의 연구장려금 지원</li>
             <li>쾌적한 연구 환경 지원</li>
             <li>다양한 분야의 Project 참여 기회 제공</li>
           </ul>
 
-          <h2>신청 요건</h2>
+          <strong>신청 요건</strong>
           <ul>
             <li>상위 수준에서 SoC 및 NoC 설계에 관심있는 학생</li>
             <li>C/C++, SystemC 또는 VerilogHDL에 관심있는 학생</li>
@@ -33,7 +33,7 @@ sections:
             <li>인공지능 연산 가속을 위한 HW/SW (CPU, GPU / pytorch, tensorflow, etc.)에 관심있는 학생</li>
           </ul>
 
-          <h2>지원 문의</h2>
+          <strong>지원 문의</strong>
           <p>
             담당자: 김한솔, johnkims2@g.skku.edu, 031-299-4659<br>
             주소: 성균관대학교 자연과학캠퍼스 반도체관 400525호
