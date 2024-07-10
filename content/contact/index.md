@@ -36,6 +36,10 @@ sections:
           </ul>
 
           <strong style="font-size: 1.2em;">지원 문의</strong>
+          <ul style="font-size: 0.9em;line-height: 1.0;">
+            <lib>담당자:최지훈, jihun5029@g.skku.edu </lib>
+            <lib>성균관대학교 자연과학캠퍼스 반도체관 400525호, 031-299-4659</lib>
+          </ul>
         </div>
 
         <div style="text-align: center;">
