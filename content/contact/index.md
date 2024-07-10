@@ -42,7 +42,7 @@ sections:
 
   - block: markdown
     content:
-      title: We look forward to your visit!
+      title:  <h2 style="font-size:2em;">We look forward to your visit!</h2>
       subtitle: ''
       text: |-
         <div style="text-align: center;">
