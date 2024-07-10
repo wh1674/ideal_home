@@ -9,19 +9,40 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: jihun5029@g.skku.edu 
-      phone: 031-299-4659
- 
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
+        <div>
+          <h2>연구 분야</h2>
+          <ul>
+            <li>SoC / NoC / 3D-NoC</li>
+            <li>Computer Architecture (Processor, Memory, etc.)</li>
+            <li>Machine Learning</li>
+            <li>System-level Design (ESL, High-level Synthesis)</li>
+          </ul>
+
+          <h2>전일제 대학원생 지원</h2>
+          <ul>
+            <li>등록금 지원 및 매월 일정액의 연구장려금 지원</li>
+            <li>쾌적한 연구 환경 지원</li>
+            <li>다양한 분야의 Project 참여 기회 제공</li>
+          </ul>
+
+          <h2>신청 요건</h2>
+          <ul>
+            <li>상위 수준에서 SoC 및 NoC 설계에 관심있는 학생</li>
+            <li>C/C++, SystemC 또는 VerilogHDL에 관심있는 학생</li>
+            <li>Computer Architecture Simulator (GEM5, SniperSim, ChampSim, etc.)를 활용한 연구에 관심있는 학생</li>
+            <li>인공지능 연산 가속을 위한 HW/SW (CPU, GPU / pytorch, tensorflow, etc.)에 관심있는 학생</li>
+          </ul>
+
+          <h2>지원 문의</h2>
+          <p>
+            담당자: 김한솔, johnkims2@g.skku.edu, 031-299-4659<br>
+            주소: 성균관대학교 자연과학캠퍼스 반도체관 400525호
+          </p>
+        </div>
+      email: -담당자:최지훈, jihun5029@g.skku.edu 
+      phone: -주소:성균관대학교 자연과학캠퍼스 반도체관 400525호(031-299-4659) 
       autolink: false
-    
+
 
 
   - block: markdown
