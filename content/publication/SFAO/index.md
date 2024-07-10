@@ -10,7 +10,7 @@ doi: "10.1109/ACCESS.2023.3332472"
 publishDate: "2023-11-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: | 
-<p><strong>IEEE Access, Vol. 11, pp. 128306-128315, Nov. 2023</strong></p>
+"<p><strong>IEEE Access, Vol. 11, pp. 128306-128315, Nov. 2023</strong></p>"
 publication_short: ""
 abstract: |
   <p>One of the vital challenges for the binary neural networks (BNNs) is improving their inference performance by expanding their data representation capabilities for figuring out delicate patterns and nuances in the data. Addressing the explosive computational demands on neural network training is essential to guarantee sustainable development and scalable deployment. However, mitigating the increase in the computational cost during the training phase is critical for ensuring sustainability and scalability during deployment.</p>
