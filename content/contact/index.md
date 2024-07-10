@@ -54,7 +54,7 @@ sections:
 
       background:
           image:
-            filename:
+            filename: welcome.jpg
               brightness: 
           position: center
           color: white
