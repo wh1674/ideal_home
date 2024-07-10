@@ -9,8 +9,9 @@ date: "2023-11-01T00:00:00Z"
 doi: "10.1109/ACCESS.2023.3332472"
 publishDate: "2023-11-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication: >
+publication: |
 <p><strong>IEEE Access, Vol. 11, pp. 128306-128315, Nov. 2023</strong></p>
+
 
 publication_short: ""
 abstract: |
